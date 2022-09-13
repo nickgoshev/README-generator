@@ -1,11 +1,9 @@
-# README generator
+# sample project
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-https://drive.google.com/file/d/1HLO4XSKvsi28TABPBndwqtND2UVJXo4s/view
-
-writes professional README.md files based on a series of user-inputs 
+a sample project
 
 ## Table of Contents
 
@@ -31,11 +29,11 @@ npm i
 
 ## Usage
 
-use``` $ node index ``` to run
+node index
 
 ## Contributing
 
-
+-
 
 ## Tests
 
